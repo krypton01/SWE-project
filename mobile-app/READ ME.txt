@@ -1,0 +1,1 @@
+This folder was created to provide with the codes of our mobile app. It contains CurrentTasks, DriverAccount, LoginPage, MainPage, and TaskHistory. The app was created by FlutterFlow.
